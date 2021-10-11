@@ -22,7 +22,7 @@ a:hover, a:active {
 }
 /* Container */
 #container {
-    max-width: 860px;
+    max-width: 760px;
     margin: auto;
 }
 /* Head */
@@ -42,4 +42,8 @@ a:hover, a:active {
 .home-entrie .title{
     font-size: 20px;
     font-weight: bold;
+}
+#article-body li, .home-entrie li{
+    margin: 10px 0;
+
 }
