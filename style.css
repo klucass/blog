@@ -5,7 +5,7 @@ Remembrer the most *important* rule of live: never user !important
 The 2nd most !important is: there are no rules ;D
 */
 /* Global */
-body {font-family: Georgia, 'Times New Roman', Times, serif;}
+body {font-family: Georgia, 'Times New Roman', Times, serif; padding: 10px;}
 h1, h2, h3, h4, h5, h6, #head-text p{
     color: #264653;    
 }
